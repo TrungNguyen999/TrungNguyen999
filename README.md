@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Unity and C#
 - 💞️ I’m looking to collaborate on any game projects for taking a hands-on experiences in Unity
 - 🎪 My hobbies is playing and making game, beside that, I am also a manga lover ^^
-- 📫 If you interested, please contact with me via email: trung.gbm13@gmail.com
+- 📫 If you interested, please contact with me via email: trung.gmb13@gmail.com
 
 <!---
 TrungNguyen999/TrungNguyen999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
